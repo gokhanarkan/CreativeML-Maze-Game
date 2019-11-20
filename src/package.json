@@ -1,0 +1,26 @@
+{
+  "name": "CreativeML-Maze-Game",
+  "version": "1.0.0",
+  "description": "A Node.Js app, uses the sound of every day items with machine learning as a game controller",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "osc": "^2.1.0",
+    "osc-min": "^1.1.1",
+    "socket.io": "^1.4.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+github.com:gokhj/CreativeML-Maze-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gokhj/CreativeML-Maze-Game/issues"
+  },
+  "homepage": "https://github.com/gokhj/CreativeML-Maze-Game#readme"
+}
